@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sangeetha Manavalan!
 
-![Profile Banner](https://unsplash.com/photos/a-bulletin-board-covered-in-post-it-notes-9NuC32uv3Vk)
+![Profile Banner](https://github.com/sangeethamt/sangeethamt/blob/main/image.jpg?raw=true)
 
 ## 🚀 About Me
 I'm a passionate coder and freelancer, learning and gaining hands-on experience in software development. I'm currently seeking a full-time position where I can contribute my skills and grow professionally.
